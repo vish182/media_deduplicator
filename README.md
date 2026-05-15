@@ -1,6 +1,6 @@
 # Media deduplicator
 
-Find near-duplicate videos in a folder by computing **perceptual hashes** (pHash) for each file and clustering them when the **Hamming distance** between hashes is within a limit you choose.
+Find duplicate to near-duplicate videos in a folder by computing **perceptual hashes** (pHash) for each file and clustering them when the similarity score between hashes is within a limit you choose. This utility will help you identify duplicate media accross bit-rates and resolutions.
 
 ---
 
